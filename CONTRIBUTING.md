@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+
+#### Name: [Omkar](https://github.com/omkarmohanta50)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: 3rd year undergrad pursuing B.Tech in Computer Science and Engineering
+- GitHub: [omkarmohanta50](https://github.com/omkarmohanta50)
